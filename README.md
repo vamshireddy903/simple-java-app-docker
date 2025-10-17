@@ -1,6 +1,10 @@
 # simple-java-docker
 A simple java app that runs on docker 
 
+# Pre requisites:
+
+1. Install docker
+2. EC2 server
 
 # Create docker image
 
